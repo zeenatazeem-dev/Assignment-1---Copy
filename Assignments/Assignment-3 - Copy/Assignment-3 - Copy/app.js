@@ -1,5 +1,4 @@
-
-//("hello") 
+//alert("hello") 
 //ALERT 
 //1. Write a script to greet your website visitor using JS alert box.
 //alert("Hi! I am Zeenat nice to meet you");
@@ -22,6 +21,11 @@
 
 //6. Make use of alerts in your new/existing HTML & CSS 
 //project.
+
+
+
+
+
 /*. Practice placement of <script></script> element in 
 following sections of your project in exercise 6:
 a. Head
